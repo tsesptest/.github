@@ -9,3 +9,7 @@ contact_links:
   - name: "Espressif Homepage"
     url: "https://www.espressif.com"
     about: "About the company"
+
+  - name: Report Issues in the Correct Repository
+    url: https://github.com/tsesptest/repo-910-2/issues
+    about: "Issue creation is disabled in this repository. Please open issues in the appropriate repository."
